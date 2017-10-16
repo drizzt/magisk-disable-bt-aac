@@ -1,7 +1,7 @@
-id=template
-name=Template Module
+id=bt_aac_disabler
+name=Disable AAC bluetooth codec
 version=v1
 versionCode=1
-author=topjohnwu
-description=A short description
+author=THREADelli
+description=Disable AAC bluetooth codec
 template=1400
